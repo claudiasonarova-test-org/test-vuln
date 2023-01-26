@@ -1,0 +1,1 @@
+Sample project for illustrating vulnerabilities in JavaScript and Python.
